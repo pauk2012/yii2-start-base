@@ -18,7 +18,8 @@ class Base extends Component
     public $extensionsMap = [
         'users' => 'vova07/yii2-start-users-module',
         'blogs' => 'vova07/yii2-start-blogs-module',
-        'comments' => 'vova07/yii2-start-comments-module'
+        'comments' => 'vova07/yii2-start-comments-module',
+        'klasses' => 'pauko/yii2-start-classes',
     ];
 
     /**
